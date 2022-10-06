@@ -34,7 +34,7 @@
     "axios-mock-adapter": "^1.20.0",
     "commander": "^7.1.0",
     "curl-generator": "^0.2.0",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.11.5",
     "epg-parser": "^0.1.6",
     "glob": "^7.1.6",
     "lodash": "^4.17.21",
