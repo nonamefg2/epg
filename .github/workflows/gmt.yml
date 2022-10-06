@@ -4,14 +4,14 @@ name: Generate guide from movistarplus.es
 
 # Controls when the action will run. 
 on:
-  push:
-    branches: [main]
+    push:
+        branches: [main]
     
-  pull_request:
-    branches:
-      - main
+    pull_request:
+        branches:
+        - main
       
-   schedule:
+    schedule:
       - cron: "0 */23 * * *"
   
   # Allows you to run this workflow manually from the Actions tab
