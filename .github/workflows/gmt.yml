@@ -38,7 +38,7 @@ jobs:
           pwd
           npm install dayjs --save
           npm install -g epg-grabber
-          epg-grabber -c=sites/movistarplus.es/movistarplus.es.config.js -o=es/movistar-plus.xml
+          epg-grabber -c="sites/movistarplus.es/movistarplus.es.config.js" -o="es/movistar-plus.xml"
         
           
       - name: commit & push
