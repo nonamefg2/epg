@@ -3,8 +3,8 @@
   <channels>
     <channel lang="es" xmltv_id="0porMovistarPlus.es" site_id="MV3">#0</channel>
     <channel lang="es" xmltv_id="324.es" site_id="3_24">3/24</channel>
-    <channel lang="es" xmltv_id="7TelevisionRegiondeMurcia.es" site_id="7TVMUR">7 Televisión Región de Murcia</channel>
-    <channel lang="es" xmltv_id="8TVCadiz.es" site_id="8TV">8 TV Cádiz</channel>
+    <channel lang="es" xmltv_id="7TelevisionRegiondeMurcia.es" site_id="7TVMUR">La 7</channel>
+    <channel lang="es" xmltv_id="8TV.es" site_id="8TV">8 TV CAT</channel>
     <channel lang="es" xmltv_id="AlJazeeraEnglish.qa" site_id="ALJAZE">Aljazeera English</channel>
     <channel lang="es" xmltv_id="Alquiler1.es" site_id="TQ1">Alquiler  1</channel>
     <channel lang="es" xmltv_id="AlquilerHD.es" site_id="HDTQ10">Alquiler HD</channel>
@@ -21,7 +21,7 @@
     <channel lang="es" xmltv_id="BBCWorldNewsEurope.uk" site_id="BBC">BBC World News Europe</channel>
     <channel lang="es" xmltv_id="BeMad.es" site_id="BEMAD">Be Mad</channel>
     <channel lang="es" xmltv_id="Beteve.es" site_id="BTV">betevé</channel>
-    <channel lang="es" xmltv_id="BlazeSpain.us" site_id="BIOGRA">Blaze España</channel>
+    <channel lang="es" xmltv_id="BlazeSpain.us" site_id="BIOGRA">AMC Break</channel>
     <channel lang="es" xmltv_id="BloombergTVEMEA.uk" site_id="BL">Bloomberg TV Europe</channel>
     <channel lang="es" xmltv_id="BoingSpain.it" site_id="BOING">Boing España</channel>
     <channel lang="es" xmltv_id="BomCine.es" site_id="BOMCIN">Bom Cine</channel>
@@ -44,7 +44,7 @@
     <channel lang="es" xmltv_id="CNNInternationalEurope.us" site_id="CNN">CNN International Europe</channel>
     <channel lang="es" xmltv_id="ComedyCentralSpain.es" site_id="PCM">Comedy Central España</channel>
     <channel lang="es" xmltv_id="CosmopolitanTV.es" site_id="COSMO">Cosmopolitan TV España</channel>
-    <channel lang="es" xmltv_id="CrimenPlusInvestigacion.es" site_id="CYM">Crimen + Investigación</channel>
+    <channel lang="es" xmltv_id="CrimenPlusInvestigacion.es" site_id="CYM">AMC Crime</channel>
     <channel lang="es" xmltv_id="Cuatro.es" site_id="C4">Cuatro</channel>
     <channel lang="es" xmltv_id="CubavisionInternacional.cu" site_id="CUBAV">Cubavisión Internacional</channel>
     <channel lang="es" xmltv_id="Dark.es" site_id="DARK">Dark</channel>
@@ -52,7 +52,12 @@
     <channel lang="es" xmltv_id="DAZN2Spain.uk" site_id="M2SD">DAZN 2 España</channel>
     <channel lang="es" xmltv_id="DAZN3Spain.uk" site_id="DAZN3">DAZN 3 España</channel>
     <channel lang="es" xmltv_id="DAZN4Spain.uk" site_id="DAZN4">DAZN 4 España</channel>
-    <channel lang="es" xmltv_id="DAZNF1.es" site_id="MVF1">DAZN F1</channel>
+    <channel lang="es" xmltv_id="DAZNLaLiga.es" site_id="DAZNLI">DAZN LaLiga</channel>
+    <channel lang="es" xmltv_id="DAZNLaLiga2.es" site_id="DAZNL2">DAZN LaLiga 2</channel>
+    <channel lang="es" xmltv_id="LaLigaSmartbank.es" site_id="MLIGS">LaLiga Smartbank</channel>
+    <channel lang="es" xmltv_id="LaLigaSmartbank2.es" site_id="MLIGS2">LaLiga Smartbank 2</channel>
+    <channel lang="es" xmltv_id="LaLigaSmartbank3.es" site_id="MLIGS3">LaLiga Smartbank 3</channel>
+	<channel lang="es" xmltv_id="DAZNF1.es" site_id="MVF1">DAZN F1</channel>
     <channel lang="es" xmltv_id="Decasa.es" site_id="DECASA">Decasa</channel>
     <channel lang="es" xmltv_id="DiscoveryChannelSpain.es" site_id="DCR">Discovery Channel Iberia</channel>
     <channel lang="es" xmltv_id="DisneyChannelSpain.es" site_id="DCH">Disney Channel España</channel>
@@ -137,7 +142,7 @@
     <channel lang="es" xmltv_id="MovistarLigadeCampeones8.es" site_id="CHAP8">Movistar Liga de Campeones 8</channel>
     <channel lang="es" xmltv_id="LigadeCampeones9porMovistarPlus.es" site_id="CHAP9">Movistar Liga de Campeones 9</channel>
     <channel lang="es" xmltv_id="MovistarLigadeCampeonesUHD.es" site_id="CHAUHD">Movistar Liga de Campeones UHD</channel>
-    <channel lang="es" xmltv_id="OscarsporMovistarPlus.es" site_id="MOSCAR">Movistar Los Oscar</channel>
+    <channel lang="es" xmltv_id="PopupporMovistarPlus.es" site_id="MSANSE">Movistar Popup</channel>
     <channel lang="es" xmltv_id="MovistarSeries.es" site_id="MV2">Movistar Series</channel>
     <channel lang="es" xmltv_id="MovistarSeries2.es" site_id="CPSER">Movistar  Series 2</channel>
     <channel lang="es" xmltv_id="MTV00s.uk" site_id="VH1">MTV 00s</channel>
