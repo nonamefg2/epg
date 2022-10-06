@@ -49,5 +49,4 @@ jobs:
             git checkout -b guides
             git add .
             git commit -m "Update guides"
-            git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
             git push -f -u origin guides
