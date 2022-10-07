@@ -47,6 +47,6 @@ jobs:
             git config --local user.name "actions"
             git config --local user.email "action@github.com" 
             git checkout -b guides
-            git add sites
+            git add es
             git commit -m "Update guides"
             git push -f -u origin guides
