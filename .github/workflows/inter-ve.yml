@@ -38,8 +38,8 @@ jobs:
           pwd
           npm i dayjs --save
           npm i -g epg-grabber
-          npm i -g axios
-          npm i -g cheerio
+          npm i axios --save
+          npm i cheerio --save
           npm i lodash --save
           epg-grabber -o guides/ve/inter.xml -c sites/reportv.com.ar/reportv.com.ar.config.js
         
