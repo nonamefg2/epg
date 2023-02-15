@@ -38,11 +38,11 @@
     <channel lang="en" xmltv_id="VePlusVenezuela.ve" site_id="914">VENEVISION PLUS</channel>
     <channel lang="en" xmltv_id="Vive.ve" site_id="407">VIVE TV</channel>
     <channel lang="en" xmltv_id="VenezolanadeTelevision.ve" site_id="420">VTV</channel>
-	<channel lang="en" xmltv_id="TVFANB.ve" site_id="3313">FANB TV</channel>
+    <channel lang="en" xmltv_id="TVFANB.ve" site_id="3313">FANB TV</channel>
     <channel lang="en" xmltv_id="LaTeleTuya.ve" site_id="3750">TLT HD</channel>
     <channel lang="en" xmltv_id="Telesur.ve" site_id="388">TELESUR</channel>
     <channel lang="en" xmltv_id="VepacoTV.ve" site_id="3352">TVEPACO</channel>
-	<channel lang="en" xmltv_id="Showven.ve" site_id="3901">SHOWVEN TV</channel>
+    <channel lang="en" xmltv_id="Showven.ve" site_id="3901">SHOWVEN TV</channel>
     <!-- <channel lang="en" xmltv_id="" site_id="1054">CLASICOS INSTRUMENTALES</channel> -->
     <!-- <channel lang="en" xmltv_id="" site_id="1101">FOX SPORTS 3</channel> -->
     <!-- <channel lang="en" xmltv_id="" site_id="1102">DISNEY JR</channel> -->
