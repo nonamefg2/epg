@@ -1,0 +1,53 @@
+name: Generate guide from tv.movistar.com.ec
+
+# Controls when the action will run. 
+on:
+  push:
+    branches: [main]
+    
+  pull_request:
+    branches:
+    - main
+      
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      #- name: Run a one-line script
+      #  run: echo testing!
+
+      # Runs a set of commands using the runners shell 
+    
+      - name: Grab EPG
+        run: |
+          pwd
+          npm install dayjs --save
+          npm install axios --save
+          npm install -g epg-grabber
+          epg-grabber -o guides/ec/movistar-tv.xml -c sites/tv.movistar.com.ec/tv.movistar.com.ec.config.js
+        
+          
+      - name: commit & push
+        run: |
+            git init
+            git config --local user.name "actions"
+            git config --local user.email "action@github.com" 
+            git checkout -b guides
+            git add guides/*
+            git commit -m "Update guides"
+            git push -f -u origin guides
