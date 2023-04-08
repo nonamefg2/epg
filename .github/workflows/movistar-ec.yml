@@ -1,11 +1,7 @@
 name: Generate guide from tv.movistar.com.ec
 
 # Controls when the action will run. 
-on:
-  push:
-    branches: [main]
-    
-      
+on:     
   schedule:
     - cron: "0 0 * * *"
   
@@ -45,5 +41,5 @@ jobs:
             git config --local user.email "action@github.com" 
             git checkout -b guides
             git add guides/*
-            git commit -m "Update guides"
+            git commit -m "Movistar Ecuador (update)"
             git push -f -u origin guides

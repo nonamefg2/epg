@@ -3,8 +3,7 @@ const axios = require('axios')
 
 module.exports = {
   site: 'tv.movistar.com.ec',
-  channels: 'tv.movistar.com.ec.channels.xml',
-  days: 2,
+  channels: 'tv.movistar.com.ec_ec.channels.xml',
   url({ channel, date }) {
     return `https://contentapi-ec.cdn.telefonica.com/41/default/es-EC/schedules?fields=Pid,Title,Description,ChannelName,LiveChannelPid,Start,End,images.videoFrame,AgeRatingPid&orderBy=START_TIME%3Aa&filteravailability=false&starttime=${date.unix()}&endtime=${date
       .add(1, 'd')
