@@ -5,9 +5,6 @@ on:
   push:
     branches: [main]
     
-  pull_request:
-    branches:
-    - main
       
   schedule:
     - cron: "0 0 * * *"
@@ -25,7 +22,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
       #- name: Run a one-line script
@@ -36,11 +33,10 @@ jobs:
       - name: Grab EPG
         run: |
           pwd
-          npm install dayjs --save
-          npm install axios --save
-          npm install -g epg-grabber
+          npm i dayjs --save
+          npm i axios --save
+          npm i -g epg-grabber
           epg-grabber -o guides/ec/movistar-tv.xml -c sites/tv.movistar.com.ec/tv.movistar.com.ec.config.js
-        
           
       - name: commit & push
         run: |
