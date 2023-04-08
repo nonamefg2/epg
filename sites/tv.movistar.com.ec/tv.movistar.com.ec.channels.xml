@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="tv.movistar.com.pe">
+  <channels>
+    <channel lang="es" xmltv_id="ElCanaldelFutbol.ec" site_id="LCH3977">El Canal Del Futbol</channel>
+    <channel lang="es" xmltv_id="ElCanaldelFutbol2.ec" site_id="LCH4136">El Canal Del Futbol 2</channel>
+    <channel lang="es" xmltv_id="TNTPacific.us" site_id="LCH3415">TNT</channel>
+    <channel lang="es" xmltv_id="ParamountNetworkPanregional.us" site_id="LCH3414">Paramount</channel>
+    <channel lang="es" xmltv_id="TNTSeriesPanregional.us" site_id="LCH3423">TNT Series</channel>
+    <channel lang="es" xmltv_id="SpacePanregional.us" site_id="LCH3097">Space</channel>
+    <channel lang="es" xmltv_id="StudioUniversalPanregional.us" site_id="LCH4016">Studio Universal</channel>
+    <channel lang="es" xmltv_id="UniversalTVPanregional.us" site_id="LCH4027">Universal</channel>
+    <channel lang="es" xmltv_id="CinecanalPanregional.us" site_id="LCH3902">Cinecanal</channel>
+    <channel lang="es" xmltv_id="FXPanregional.us" site_id="LCH3420">FX</channel>
+    <channel lang="es" xmltv_id="AXNAndes.us" site_id="LCH4025">AXN</channel>
+    <channel lang="es" xmltv_id="CinemaxPanregional.us" site_id="LCH4013">Cinemax</channel>
+    <channel lang="es" xmltv_id="StarChannelPanregional.us" site_id="LCH3098">Star</channel>
+    <channel lang="es" xmltv_id="AEPanregional.us" site_id="LCH4011">A&E</channel>
+    <channel lang="es" xmltv_id="SonyChannelAndes.us" site_id="LCH4017">Sony</channel>
+    <channel lang="es" xmltv_id="WarnerChannelPanregional.us" site_id="LCH4031">Warner</channel>
+    <channel lang="es" xmltv_id="DiscoveryChannelPanregional.us" site_id="LCH4028">Discovery</channel>
+    <channel lang="es" xmltv_id="TCMPanregional.us" site_id="LCH3403">TCM</channel>
+    <channel lang="es" xmltv_id="HistoryPanregional.us" site_id="LCH4018">History</channel>
+    <channel lang="es" xmltv_id="History2Panregional.us" site_id="LCH4029">History 2</channel>
+    <channel lang="es" xmltv_id="InvestigationDiscoveryPanregional.us" site_id="LCH4023">Investigation Discovery</channel>
+    <channel lang="es" xmltv_id="TelemundoAndes.us" site_id="LCH4020">Telemundo</channel>
+    <channel lang="es" xmltv_id="DiscoveryHomeHealthPanregional.us" site_id="LCH4026">Discovery Home & Health</channel>
+    <channel lang="es" xmltv_id="TLCPanregional.us" site_id="LCH4019">TLC</channel>
+    <channel lang="es" xmltv_id="HGTVPanregional.us" site_id="LCH4032">HGTV</channel>
+    <channel lang="es" xmltv_id="FoodNetworkPanregional.us" site_id="LCH4022">Food Network</channel>
+    <channel lang="es" xmltv_id="LifetimePanregional.us" site_id="LCH4021">Lifetime</channel>
+    <channel lang="es" xmltv_id="AnimalPlanetLatinAmerica.us" site_id="LCH4024">Animal Planet</channel>
+    <channel lang="es" xmltv_id="NationalGeographicPanregional.us" site_id="LCH3442">National Geographic</channel>
+    <channel lang="es" xmltv_id="DiscoveryTurboPanregional.us" site_id="LCH4012">Discovery Turbo</channel>
+    <channel lang="es" xmltv_id="ESPN4South.us" site_id="LCH3094">ESPN 4</channel>
+    <channel lang="es" xmltv_id="FoxSports2South.us" site_id="LCH3419">FOX Sports 2</channel>
+    <channel lang="es" xmltv_id="FoxSports3Panregional.us" site_id="LCH3421">FOX Sports 3</channel>
+    <channel lang="es" xmltv_id="ESPNColombia.co" site_id="LCH3405">ESPN</channel>
+    <channel lang="es" xmltv_id="ESPN2Colombia.co" site_id="LCH4119">ESPN 2</channel>
+    <channel lang="es" xmltv_id="ESPN3South.us" site_id="LCH3424">ESPN 3</channel>
+    <channel lang="es" xmltv_id="ESPNExtraSouth.us" site_id="LCH3409">ESPN Extra</channel>
+    <channel lang="es" xmltv_id="DiscoveryKidsPanregional.us" site_id="LCH4015">Discovery Kids</channel>
+    <channel lang="es" xmltv_id="NickelodeonPanregional.us" site_id="LCH3436">Nick</channel>
+    <channel lang="es" xmltv_id="NickJrPanregional.us" site_id="LCH3422">Nick Jr.</channel>
+    <channel lang="es" xmltv_id="DisneyChannelSouth.us" site_id="LCH3443">Disney Channel</channel>
+    <channel lang="es" xmltv_id="DisneyJuniorSouth.us" site_id="LCH3444">Disney Jr.</channel>
+    <channel lang="es" xmltv_id="BoomerangLatinAmerica.us" site_id="LCH3417">Cartoonito</channel>
+    <channel lang="es" xmltv_id="CartoonNetworkPacific.us" site_id="LCH3404">Cartoon Network</channel>
+    <channel lang="es" xmltv_id="Tooncast.us" site_id="LCH3432">Tooncast</channel>
+    <channel lang="es" xmltv_id="EAndes.us" site_id="LCH4014">E! Entertainment</channel>
+    <channel lang="es" xmltv_id="ComedyCentralNorth.us" site_id="LCH3429">Comedy Central</channel>
+    <channel lang="es" xmltv_id="HTV.us" site_id="LCH3406">HTV</channel>
+    <channel lang="es" xmltv_id="MTVNorth.us" site_id="LCH3410">MTV</channel>
+    <channel lang="es" xmltv_id="CNNenEspanol.us" site_id="LCH3402">CNN en Español</channel>
+    <channel lang="es" xmltv_id="CNNInternationalLatinAmerica.us" site_id="LCH3411">CNN International</channel>
+    <channel lang="es" xmltv_id="Teleamazonas.ec" site_id="LCH5485">Teleamazonas</channel>
+    <channel lang="es" xmltv_id="Ecuavisa.ec" site_id="LCH5541">Ecuavisa</channel>
+    <channel lang="es" xmltv_id="EcuavisaInternacional.ec" site_id="LCH3875">Ecuavisa Internacional</channel>
+    <channel lang="es" xmltv_id="TCTV.ec" site_id="LCH3654">TC Televisión</channel>
+    <channel lang="es" xmltv_id="Telerama.ec" site_id="LCH3703">Telerama</channel>
+    <channel lang="es" xmltv_id="OromarTV.ec" site_id="LCH3095">Oromar</channel>
+    <channel lang="es" xmltv_id="IntiTV.ec" site_id="LCH3806">Inti</channel>
+    <channel lang="es" xmltv_id="HBOLatinAmerica.us" site_id="LCH3430">HBO</channel>
+    <channel lang="es" xmltv_id="HBOPlusLatinAmerica.us" site_id="LCH3907">HBO+</channel>
+	<channel lang="es" xmltv_id="HBO2LatinAmerica.us" site_id="LCH3908">HBO 2</channel>
+    <channel lang="es" xmltv_id="HBOFamilyLatinAmerica.us" site_id="LCH3909">HBO Family</channel>
+    <channel lang="es" xmltv_id="TCTV.ec" site_id="LCH4121">Tucancha</channel>
+    <channel lang="es" xmltv_id="SyfyPanregional.us" site_id="LCH6234">SYFY</channel>
+    <channel lang="es" xmltv_id="Gamavision.ec" site_id="LCH6357">Gamavisión</channel>
+  </channels>
+</site>
