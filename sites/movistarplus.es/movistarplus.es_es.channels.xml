@@ -148,8 +148,8 @@
     <channel lang="es" xmltv_id="MovistarLigadeCampeonesUHD.es" site_id="CHAUHD">M+ Liga de Campeones UHD</channel>
     <channel lang="es" xmltv_id="PopupporMovistarPlus.es" site_id="MSANSE">M+ Popup</channel>
     <channel lang="es" xmltv_id="SeriesporMovistarPlus.es" site_id="MV2">M+ Series</channel>
-	  <channel lang="es" xmltv_id="OriginalesporMovistarPlus.es" site_id="MORIG">M+ Originales</channel>
-	  <channel lang="es" xmltv_id="DocumentalesporMovistarPlus.es" site_id="MORIG">M+ Documentales</channel>
+    <channel lang="es" xmltv_id="OriginalesporMovistarPlus.es" site_id="MORIG">M+ Originales</channel>
+    <channel lang="es" xmltv_id="DocumentalesporMovistarPlus.es" site_id="MORIG">M+ Documentales</channel>
     <channel lang="es" xmltv_id="MovistarSeries2.es" site_id="CPSER">M+ Series 2</channel>
     <channel lang="es" xmltv_id="MTV00s.uk" site_id="VH1">MTV 00s</channel>
     <channel lang="es" xmltv_id="MTVSpain.es" site_id="MTV">MTV España</channel>
@@ -194,7 +194,7 @@
     <channel lang="es" xmltv_id="TVGEuropa.es" site_id="TVG">TVG Europa</channel>
     <channel lang="es" xmltv_id="UBeat.mx" site_id="UBEAT">U-Beat</channel>
     <channel lang="es" xmltv_id="VamosporMovistarPlus.es" site_id="VAMOSD">#Vamos</channel>
-	  <channel lang="es" xmltv_id="EllasVporMovistarPlus.es" site_id="MELLAV">M+ Ellas Vamos</channel>
+    <channel lang="es" xmltv_id="EllasVporMovistarPlus.es" site_id="MELLAV">M+ Ellas Vamos</channel>
     <channel lang="es" xmltv_id="XTRM.es" site_id="XTRM">Xtrm</channel>
     <channel lang="es" xmltv_id="BuenViaje.es" site_id="BUENV">¡Buen Viaje!</channel>
   </channels>
