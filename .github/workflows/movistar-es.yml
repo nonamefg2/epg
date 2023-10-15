@@ -29,6 +29,7 @@ jobs:
       - name: Grab EPG
         run: |
           pwd
+          npm i luxon --save
           npm i dayjs --save
           npm i -g epg-grabber
           epg-grabber -o guides/es/movistar-plus.xml -c sites/movistarplus.es/movistarplus.es.config.js
