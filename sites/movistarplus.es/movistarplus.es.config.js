@@ -2,6 +2,7 @@ const { DateTime } = require('luxon')
 
 module.exports = {
   site: 'movistarplus.es',
+  channels: 'movistarplus.es_es.channels.xml',
   days: 2,
   url: function ({ date }) {
     return `https://www.movistarplus.es/programacion-tv/${date.format('YYYY-MM-DD')}?v=json`
